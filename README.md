@@ -31,7 +31,7 @@ Bienvenue sur mon profil GitHub ! Vous trouverez ici mes projets, contributions 
 
 ---
 
-## 📊 Statistiques et Langages Utilisés
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sim62149&layout=compact&theme=radical)
 
 ---
