@@ -19,6 +19,10 @@ Bienvenue sur mon profil GitHub ! Vous trouverez ici mes projets, contributions 
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Pterodactyl](https://img.shields.io/badge/Pterodactyl-1E293B?style=for-the-badge&logo=pterodactyl&logoColor=white)
+![VMware ESXi](https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
 ---
 
 
